@@ -1,0 +1,1 @@
+8 ay önce yazdığım botları paylaşıyom bazı aptal ezik büzükler vds te olan botları alıp yaymaya falan kalkmışlar bide sunucularına kuramamışlar yazık kafalarına azcık kurulum komudu yazmayı öğreninde sonra konuşuruz yine &lt;3
