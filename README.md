@@ -5,8 +5,8 @@
 ```js
 class oxyistekanka{
   constructor(...settings) {
-    this.name = "Ömer"
-    this.age = "19"
+    this.name = "Faruk"
+    this.age = "21"
     this.height = "1.90"
     this.weight = "85"
     this.type = "human"
